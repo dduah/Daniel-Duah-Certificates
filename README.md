@@ -1,25 +1,5 @@
-# DANIEL DUAH - CERTIFICATES
+# DANIEL DUAH - Certifications - Corporate Finance Institute
 
-This repository contains selected academic and professional certificates
-demonstrating my training in Financial Technology, Analytics, Accounting and Finance.
-
-## Academic Certificates
-MASTER OF SCIENCE || FINANCIAL TECHNOLOGY – 
-Expected || DECEMBER 2026 || 
-WORCESTER POLYTECHIC INSTITUTE
-UNITED STATES OF AMERICA
-
-MASTER OF SCIENCE || ACCOUNTING AND FINANCE - 2021
-KWAME NKRUMAH UNIVERSITY OF SCIENCE AND TECHNOLOGY || KUMASI, GHANA
-
-BACHELOR OF EDUCATION || ACCOUNTING STUDIES - 2011
-UNIVERSITY OF EDUCATION
-WINNEBA, GHANA
-
-## Professional Certificate
-CHARTERED ACCOUNTANT-ASSOCIATE || THE INSTITUTE OF CHARTERED ACCOUNTANT (GHANA) - 2018
-
-## Certifications - Corporate Finance Institute
 2025
 
 •	Excel Fundamentals – Formulas for Finance
